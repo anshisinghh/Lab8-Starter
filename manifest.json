@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "Anshi",
     "description": "Recipe app that creates recipe cards",
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "blue",
     "theme_color": "red",
